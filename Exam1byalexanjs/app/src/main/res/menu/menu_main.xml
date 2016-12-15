@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jarrett.pointofsale.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_priority"
+        android:orderInCategory="100"
+        android:title="@string/priority"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item
+        android:id="@+id/action_reset"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/reset"
+        android:icon="@android:drawable/ic_menu_revert" />
+
+
+
+</menu>

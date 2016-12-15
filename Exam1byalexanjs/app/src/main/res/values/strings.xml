@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exam1 by alexanjs</string>
+    <string name="space"> </string>
+    <string name="shoppingListTitle">Shopping List</string>
+    <string name="Recipient">Recipient</string>
+    <string name="gift">Gift</string>
+    <string name="button">ENTER</string>
+    <string name="hintForGift">What will you give?</string>
+    <string name="hintForPerson">Who is this gift for?</string>
+    <string name="reset">Reset</string>
+    <string name="priority">Priority</string>
+    <string name="settings">Settings</string>
+</resources>
